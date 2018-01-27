@@ -1,3 +1,5 @@
 {
-  "hi": "Hej!"
+  "welcome": "Välkommen till Dingoblat!",
+  "description": "Det här är en meningslös sajt",
+  "pickLanguage": "Välj språk"
 }

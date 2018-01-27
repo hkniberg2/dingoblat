@@ -1,0 +1,9 @@
+<template name="languageSelect">
+    <div class="languagePicker">
+        {{_ "pickLanguage"}}<br>
+        {{#each languages}}
+            <button class="languageButton btn {{buttonClass}}" data-language="{{this}}">{{this}}</button>
+        {{/each}}
+    </div>
+
+</template>
