@@ -1,3 +1,5 @@
 {
-  "hi": "Hello there!"
+  "welcome": "Welcome to Dingoblat!",
+  "description": "This is a really dumb pointless site",
+  "pickLanguage": "Pick a language"
 }
