@@ -1,4 +1,6 @@
 {
-  "welcome": "Välkommen till Dingoblat!",
-  "description": "Det här är en meningslös sajt"
+  "welcome": "Välkommen till Exempleprojektet!",
+  "description": "Det här är en meningslös sajt",
+  "pickLanguage": "Välj ett språk",
+  "dumbJoke": "Min farfar dog fredligt i hans sömn. Hans passagerare dog sparkande och skrikandes..."
 }
