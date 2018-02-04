@@ -1,5 +1,9 @@
 {
   "welcome": "Bienvenue à Dingoblat!",
   "description": "Ceci est un site vraiment stupide inutile",
-  "pickLanguage": "Choisissez une langue! Merde."
+  "pickLanguage": "Choisissez une langue! Merde.",
+  "submit": "Merde!",
+  "dumbJoke": "Mon grand-père est mort paisiblement dans son sommeil. Ses passagers sont morts en train de donner des coups de pied et de crier.",
+  "noMoreJokes": "OK, pas plus de blagues stupides, je le promets.",
+  "footer": "Bas de page? Qui a besoin de footers? Pourquoi est-ce ici?"
 }
