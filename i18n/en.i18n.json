@@ -1,5 +1,9 @@
 {
-  "welcome": "Welcome to Dingoblat!",
+  "welcome": "Welcome to the Sample Project!",
   "description": "This is a really dumb pointless site",
-  "pickLanguage": "Pick a language"
+  "pickLanguage": "Pick a language",
+  "submit": "Submit the boring form",
+  "dumbJoke": "My grandfather died peacefully in his sleep. His passengers died kicking and screaming.",
+  "noMoreJokes": "OK no more dumb jokes, I promise.",
+  "footer": "Footer? Who needs footers? Why is this here?"
 }
