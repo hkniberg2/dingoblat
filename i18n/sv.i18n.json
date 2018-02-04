@@ -1,6 +1,9 @@
 {
-  "welcome": "Välkommen till Exempleprojektet!",
+  "welcome": "Välkommen till Exempelsajten!",
   "description": "Det här är en meningslös sajt",
   "pickLanguage": "Välj ett språk",
-  "dumbJoke": "Min farfar dog fredligt i hans sömn. Hans passagerare dog sparkande och skrikandes..."
+  "submit": "Skicka in tråkig form",
+  "dumbJoke": "Min farfar dog fredligt i hans sömn. Hans passagerare dog sparkande och skrikandes",
+  "noMoreJokes": "Okej mer dumma skämt, jag lovar.",
+  "footer": "Sidfot? Vem behöver footers? Varför är det här här?"
 }
